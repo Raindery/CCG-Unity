@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Card Texture Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 20920652e54ed6e4d8047a5eb61d0712, type: 3}
+    - {fileID: 2800000, guid: 97ef6ec30b6a1004b88bfe95b69c5181, type: 3}
+    - {fileID: 2800000, guid: 9b89e3527e10e44419b1871d70d7aebb, type: 3}
+    - {fileID: 2800000, guid: 5f7f97db6d441b14f8b05c604c5256e3, type: 3}
+    - {fileID: 2800000, guid: 7ddb12f0a275e5843b84f607756f4d3d, type: 3}
+    - {fileID: 2800000, guid: 66c41ad7a8886f04faa4d99e7c3f5282, type: 3}
+    - {fileID: 2800000, guid: 515c30ae3bfd12447972df26bc08191d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7ddb12f0a275e5843b84f607756f4d3d, type: 3}
+  - {fileID: 21300000, guid: 9b89e3527e10e44419b1871d70d7aebb, type: 3}
+  - {fileID: 21300000, guid: 20920652e54ed6e4d8047a5eb61d0712, type: 3}
+  - {fileID: 21300000, guid: 97ef6ec30b6a1004b88bfe95b69c5181, type: 3}
+  - {fileID: 21300000, guid: 66c41ad7a8886f04faa4d99e7c3f5282, type: 3}
+  - {fileID: 21300000, guid: 5f7f97db6d441b14f8b05c604c5256e3, type: 3}
+  - {fileID: 21300000, guid: 515c30ae3bfd12447972df26bc08191d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hearts
+  - CardTitleBG
+  - Card
+  - CardBG
+  - rolling-energy
+  - Health
+  - spinning-sword
+  m_RenderDataMap: {}
+  m_Tag: Card Texture Atlas
+  m_IsVariant: 0
